@@ -10,8 +10,8 @@ public class MTVSdb {
     //set up connection url
     static final String DB_CONNECTION_URL = "jdbc:mysql://localhost:3306/mytvshowsdb";
     //identify user information for DB connection
-    static final String USER = "Marie";
-    static final String PASSWORD = "tryapassphrase";
+    static final String USER = "root";
+    static final String PASSWORD = "itecitec";
     //generate connection to DB
 
     MTVSdb() throws Exception {
